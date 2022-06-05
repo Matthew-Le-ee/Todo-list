@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Live Demo below !
-<a href = "https://matthew-le-ee.github.io/Todo-list/">
+<a href = "https://matthew-le-ee.github.io/Todo-list/">Live!<a>
 This code is from third-party person, i just add a little bit code to it. 
